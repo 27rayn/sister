@@ -200,6 +200,13 @@ body{
                 inset 0 -32px 32px -32px rgb(0 0 0 / 5%);
 }
 
+.chat-box .user-join{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
 .chat-box .chat{
     margin: 24px 0 ;
 }
